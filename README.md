@@ -2,7 +2,7 @@
 
 This project based to improve diferent skills:
 - Unit Test
-- Loggining
+
 
 **Note: the list of skill will increase**
 
@@ -23,3 +23,4 @@ $ npm run start
 - Axios
 - Jest
 - React-Testing
+- AntD
